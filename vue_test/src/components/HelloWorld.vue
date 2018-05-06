@@ -1,5 +1,6 @@
 <template>
     <div class="hello">
+        炮炮，我来啦！
     </div>
 </template>
 <script>
